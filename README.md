@@ -1,4 +1,4 @@
 # David Sooley's Notes
 ## Summary
 
-This repository contains all of the notes taken by David Sooley for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [David Sooley](https://github.com/DASitby) for the Lighthouse Labs Web Development Bootcamp.
